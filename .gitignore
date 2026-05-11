@@ -2,3 +2,4 @@
 rmp-eval
 build/
 *.deb
+*.rpm
